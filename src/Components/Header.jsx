@@ -43,7 +43,7 @@ function Header({ cart, removeElementFromCart, increaseQuantity, decreaseQuantit
                                                         <th>Imagen</th>
                                                         <th>Nombre</th>
                                                         <th>Precio</th>
-                                                        <th>Cantidad</th>
+                                                        <th>Cantidadddd</th>
                                                         <th></th>
                                                     </tr>
                                                 </thead>
